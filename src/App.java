@@ -5,6 +5,7 @@ public class App {
         System.out.println("Adios Mundo");
         System.out.println("Bienvenido a Java");
         System.out.println("Aprendiendo a programar en Java");
+        System.out.println("¡Java es genial!");
         // Agrega más mensajes aquí
     }
 }
